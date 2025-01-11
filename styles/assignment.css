@@ -1,26 +1,11 @@
 /* font style */
-.head{
-    width: 1600px;
-    height: 100px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    
-}
-.Bangladesh{
-    font-size: 32px;
-    font-weight: bold;
-}
+
 .btn{
     height: 52px;
     width: 116px;
 }
-.Sign{
-    color: #006A50;
-    font-size: 18px;
-    font-weight: 300;
-    padding: 30px 15px;
-}
+
+
 
 .header{
     background-color: #acd3c8;
