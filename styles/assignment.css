@@ -1,5 +1,18 @@
 /* font style */
-
+.fira-sans-light {
+    font-family: "Fira Sans", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+/* buttonstyle */
+.btn-primary{
+    background-color: #006A50;
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
 .btn{
     height: 52px;
     width: 116px;
@@ -35,6 +48,7 @@
     display: flex;
     justify-content: space-between;
     margin: 0px 60px 0px 60px;
+    padding: 80px 32px;
     
 }
 .cover-content{
@@ -84,25 +98,53 @@
     color: #0E0E0E;
 }
 .card-container-item1{
-    background-color: #5490F5;
+    background-color: #c1cada;
     width: 410.67px;
     height: 325;
     border-radius: 24px;
     padding: 24px;
 }
 .card-container-item2{
-    background-color: #C6E4D6;
+    background-color: #8fa79b;
     width: 410.67px;
     height: 325;
     border-radius: 24px;
     padding: 24px;
 }
 .card-container-item3{
-    background-color: #F7EBCF;
+    background-color: #d8cdb2;
     width: 410.67px;
     height: 325;
     border-radius: 24px;
     padding: 24px;
+}
+/* cardbutton */
+.btn1{
+    background-color: #648dd4;
+    font-size: 16px;
+    font-weight: 400;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 20px 11px;
+}
+.btn2{
+    background-color: #67c07d;
+    font-size: 16px;
+    font-weight: 400;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 20px 11px;
+}
+.btn3{
+    background-color: #c0a153;
+    font-size: 16px;
+    font-weight: 400;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 20px 11px;
 }
 
 /* quote */
