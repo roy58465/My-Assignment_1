@@ -70,6 +70,7 @@
 .card-container{
     display: flex;
     gap: 24px;
+    margin-top: 32px;
 }
 .card-box-title{
     font-size: 40px;
@@ -97,3 +98,24 @@
     border-radius: 24px;
     padding: 24px;
 }
+
+/* quote */
+
+.yunus-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Yunus{
+    background-color: #f8f7f7;
+    margin-top: 32px;
+    align-items: center;
+    border-radius: 24px;
+    padding: 48px 24px 48px 24px;
+}
+.quote{
+    max-width: 64px;
+    padding: 9px;
+}
+    
