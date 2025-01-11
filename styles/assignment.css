@@ -16,6 +16,10 @@
     width: 270px;
     height: 56px;
 }
+.peragraph{
+    font-size: 16px;
+    
+}
 
 
 
@@ -54,4 +58,42 @@
 .image{
     height: 400px;
     width: 474.03px;
+}
+
+
+/* card-box */
+#card-box{
+    width: 1280px;
+    height: 765px;
+    margin: auto;
+}
+.card-container{
+    display: flex;
+    gap: 24px;
+}
+.card-box-title{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0E0E0E;
+}
+.card-container-item1{
+    background-color: #5490F5;
+    width: 410.67px;
+    height: 325;
+    border-radius: 24px;
+    padding: 24px;
+}
+.card-container-item2{
+    background-color: #C6E4D6;
+    width: 410.67px;
+    height: 325;
+    border-radius: 24px;
+    padding: 24px;
+}
+.card-container-item3{
+    background-color: #F7EBCF;
+    width: 410.67px;
+    height: 325;
+    border-radius: 24px;
+    padding: 24px;
 }
